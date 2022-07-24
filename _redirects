@@ -279,3 +279,16 @@
 /0.9.28/windows https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.28/cargo-nextest-0.9.28-x86_64-pc-windows-msvc.zip 302
 /0.9.28/universal-apple-darwin.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.28/cargo-nextest-0.9.28-universal-apple-darwin.tar.gz 302
 /0.9.28/mac https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.28/cargo-nextest-0.9.28-universal-apple-darwin.tar.gz 302
+/0.9.29-rc.1/release https://github.com/nextest-rs/nextest/releases/cargo-nextest-0.9.29-rc.1 302
+/0.9.29-rc.1/x86_64-unknown-linux-gnu.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-unknown-linux-gnu.tar.gz 302
+/0.9.29-rc.1/linux https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-unknown-linux-gnu.tar.gz 302
+/0.9.29-rc.1/x86_64-unknown-linux-musl.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-unknown-linux-musl.tar.gz 302
+/0.9.29-rc.1/linux-musl https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-unknown-linux-musl.tar.gz 302
+/0.9.29-rc.1/aarch64-unknown-linux-gnu.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-aarch64-unknown-linux-gnu.tar.gz 302
+/0.9.29-rc.1/linux-arm https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-aarch64-unknown-linux-gnu.tar.gz 302
+/0.9.29-rc.1/x86_64-pc-windows-msvc.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-pc-windows-msvc.tar.gz 302
+/0.9.29-rc.1/windows-tar https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-pc-windows-msvc.tar.gz 302
+/0.9.29-rc.1/x86_64-pc-windows-msvc.zip https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-pc-windows-msvc.zip 302
+/0.9.29-rc.1/windows https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-x86_64-pc-windows-msvc.zip 302
+/0.9.29-rc.1/universal-apple-darwin.tar.gz https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-universal-apple-darwin.tar.gz 302
+/0.9.29-rc.1/mac https://github.com/nextest-rs/nextest/releases/download/cargo-nextest-0.9.29-rc.1/cargo-nextest-0.9.29-rc.1-universal-apple-darwin.tar.gz 302
